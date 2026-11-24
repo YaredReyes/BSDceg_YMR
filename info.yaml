@@ -4,7 +4,7 @@ project:
   title:        "BSDceg_YMR"      # Project title
   author:       "YARED"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "BSD_7SEG"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -33,7 +33,7 @@ pinout:
   uo[4]: "o4"
   uo[5]: "o5"
   uo[6]: "o6"
-  uo[7]: ""
+  uo[7]: "o7"
 
   # Bidirectional pins
   uio[0]: ""
